@@ -21,7 +21,7 @@ deploy:
   access_key_id: $AWS_ID
   secret_access_key: $AWS_KEY
   region: us-west-2
-  app: swe1-assignment
+  app: mysite
   env: Django-app-env
   bucket_name: elasticbeanstalk-us-west-2-225989339915
   on:
